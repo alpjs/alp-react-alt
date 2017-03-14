@@ -1,5 +1,7 @@
 # alp-react-redux
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/alp-react-alt.svg)](https://greenkeeper.io/)
+
 Render in react and redux with context and layout
 
 ## How to install
