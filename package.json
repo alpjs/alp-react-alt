@@ -25,16 +25,16 @@
   },
   "homepage": "https://github.com/alpjs/alp-react-alt#readme",
   "devDependencies": {
-    "eslint": "^2.10.1",
-    "eslint-config-pob": "^5.0.0",
+    "eslint": "^3.17.1",
+    "eslint-config-pob": "^11.1.0",
     "springbokjs-library": "^17.0.0"
   },
   "dependencies": {
     "alt": "^0.18.4",
     "content-loaded": "^1.1.0",
-    "fody": "^4.1.0",
+    "fody": "^7.1.0",
     "fody-app": "^2.0.0",
     "fody-alt-app": "^1.0.0",
-    "nightingale-logger": "^1.1.0"
+    "nightingale-logger": "^3.3.0"
   }
 }
